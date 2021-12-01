@@ -1,4 +1,4 @@
-### Hi there 👋, Mokaddis Borhan Alif
+### Hi there 👋,I'm Mokaddis Borhan Alif
 #### Front End Web Developer
 ![Front End Web Developer](https://avatars.githubusercontent.com/u/69682621?v=4)
 
