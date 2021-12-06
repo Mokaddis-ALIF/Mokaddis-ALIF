@@ -7,7 +7,7 @@ A Front End Web developer who specializes in JavaScript and React Technologies. 
 Skills: REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on Front end projects 
-- 🌱 I’m currently learning JavaScript/React JS 
+- 🌱 I’m currently learning JavaScript/React JS/Node JS/Express JS
 - 📫 How to reach me: mokaddis.alif@gmail.com 
 
 
