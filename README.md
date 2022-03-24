@@ -2,7 +2,7 @@
 #### Front End Web Developer
 ![Front End Web Developer](https://avatars.githubusercontent.com/u/69682621?v=4)
 
-A Front End Web developer who specializes in JavaScript and React Technologies. Experience building complete web applications with backend API system. Also comfortable in building main front-end based project with JavaScript or React.
+Being a passionate and industrious Front-end web developer who specializes in JavaScript and React also comfortable in building MERN stack web applications want to pursue a career opportunity in a competitive healthy environment that’ll help me to push my boundaries and expand my knowledge.
 
 Skills: REACT / JS / HTML / CSS
 
