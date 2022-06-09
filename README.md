@@ -7,7 +7,7 @@ Being a passionate and industrious Front-end web developer who specializes in Ja
 Skills:
 *Comfortable: SASS, Tailwind CSS, JavaScript, ES6, React, React Router, React,Bootstrap, Context Api, MUI, CSS Modules, Firebase, Node.js, Express.js,MongoDB.
 *Familiar: Styled Component, Redux, Next.js, PHP, Laravel, C
-*Tools: Git, Github, Netlify, Firebase, Heroku.
+*Tools: Git, Github, Netlify, Firebase, Heroku .
 
 - 🔭 I’m currently working on Front end projects and MERN stack projects
 - 🌱 I’m currently learning JavaScript/React JS/Node JS/Express JS/MongoDB
