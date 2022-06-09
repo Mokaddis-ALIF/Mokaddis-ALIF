@@ -1,6 +1,6 @@
 ### Hi there 👋,I'm Mokaddis Borhan Alif
 #### Front End Web Developer
-![Front End Web Developer](https://avatars.githubusercontent.com/u/69682621?v=4)
+![MERN stack Web Developer](https://avatars.githubusercontent.com/u/69682621?v=4)
 
 Being a passionate and industrious Front-end web developer who specializes in JavaScript and React also comfortable in building MERN stack web applications want to pursue a career opportunity in a competitive healthy environment that’ll help me to push my boundaries and expand my knowledge.
 
