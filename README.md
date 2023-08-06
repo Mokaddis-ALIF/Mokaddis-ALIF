@@ -1,15 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mokaddis Borhan Alif
 ============================================================================================================================================
 
-Full Stack Web Developer
+Front-End Developer
 ------------------------
 
-Being a passionate and industrious Full Stack Web Developer who specializes in JavaScript and React also comfortable in building MERN stack web applications with backend using Express.js and MongoDB as a database want to pursue a career opportunity in a competitive healthy environment that’ll help me to push my boundaries and expand my knowledge.
+Experienced Front-End Developer | JavaScript & React Enthusiast | Crafting Dynamic User Experiences | Building MERN Stack Web Apps
 
 * 🌍  I'm based in Bangladesh
 * 🖥️  See my portfolio at [Mokaddis Borhan Alif](http://portfolio-alif.netlify.app/)
 * ✉️  You can contact me at [mokaddis.alif@gmail.com](mailto:mokaddis.alif@gmail.com)
-* 🧠  I'm learning Redux, TypeScript, Next.js
+* 🧠  I'm learning Redux, Next.js, TypeScript,
 
 ### Skills
 
