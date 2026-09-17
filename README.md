@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mokaddis Borhan Chowdhury</h1>
 <h3 align="center">A passionate Software Engineer with 3+ years of experience | React · CRO · Data Science</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mokaddis-alif" alt="mokaddis-alif" /></a> </p>
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mokaddis-alif&theme=github_dark" alt="mokaddis-alif" />
+</p>
 
 - 🔭 I'm currently working on [Smart Resume Matcher](https://github.com/Mokaddis-ALIF/smart_resume_matcher)
 
