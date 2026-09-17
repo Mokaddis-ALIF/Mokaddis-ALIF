@@ -3,7 +3,8 @@
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mokaddis-alif" alt="mokaddis-alif" />
+    <!-- <img src="https://github-profile-trophy.vercel.app/?username=mokaddis-alif" alt="mokaddis-alif" /> -->
+    <a href="https://ibb.co/QFz9zd2g"><img src="https://i.ibb.co/LzbSb5LF/linkedin-profile-bg.jpg" alt="linkedin-profile-bg" border="0" /></a>
   </a>
 </p>
 
